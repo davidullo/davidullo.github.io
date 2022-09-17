@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Davide Barbieri - Blog</title>
+    <link>https://davidullo.github.io/posts/</link>
+    <description>Recent content in Posts on Davide Barbieri - Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Sep 2022 18:41:35 +0200</lastBuildDate><atom:link href="https://davidullo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ho appena creato il mio blog con HUGO.</title>
+      <link>https://davidullo.github.io/posts/firstpost/</link>
+      <pubDate>Sat, 17 Sep 2022 18:41:35 +0200</pubDate>
+      
+      <guid>https://davidullo.github.io/posts/firstpost/</guid>
+      <description>Direi che è un buon inizio. Nel caso foste interessati, ecco le risorse che ho utilizzato per aprirlo:
+Documentazione HUGO Installare Chocolatey (package manager) su Windows Video Youtube step-by-step Markdown Cheat Sheet Temi vari Enjoy!</description>
+    </item>
+    
+  </channel>
+</rss>
