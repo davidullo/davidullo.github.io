@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Davide Barbieri - Blog</title>
+    <title>Davide Barbieri • Blog</title>
     <link>https://davidullo.github.io/</link>
-    <description>Recent content on Davide Barbieri - Blog</description>
+    <description>Recent content on Davide Barbieri • Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 17 Sep 2022 18:41:35 +0200</lastBuildDate><atom:link href="https://davidullo.github.io/index.xml" rel="self" type="application/rss+xml" />
